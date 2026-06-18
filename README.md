@@ -17,6 +17,12 @@ ML engineer & researcher. LLM agents, ML security, NLP.
 
 ### Projects
 
+<img src="assets/pulsestd.png" width="40" align="left"/>
+
+**[Pulse STD](https://github.com/dmagog/PulseSTD)**<br/>
+<sub>Student dashboard — schedule, assignments, deadlines</sub>
+<br clear="left"/>
+
 <img src="assets/sirius-argus.png" width="40" align="left"/>
 
 **[Sirius-Argus](https://github.com/dmagog/Sirius-Argus)**<br/>
