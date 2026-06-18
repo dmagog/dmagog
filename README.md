@@ -7,7 +7,7 @@ ML engineer & researcher. Interests: LLM agents, ML security, NLP.
 | | |
 |---|---|
 | [Sirius-Argus](https://github.com/dmagog/Sirius-Argus) | MLSecOps platform — threat coverage map, RBAC, HITL gates |
-| [ATLAS](https://github.com/dmagog/ATLAS-phd) | LLM assistant for PhD qualifying exam preparation |
+| [ATLAS phd](https://github.com/dmagog/ATLAS-phd) | LLM assistant for PhD qualifying exam preparation |
 
 ## Research
 
@@ -19,6 +19,6 @@ ML engineer & researcher. Interests: LLM agents, ML security, NLP.
 
 ## Competitions
 
-| Result | Competition | Solution |
-|---|---|---|
-| 🥇 Gold | [AgentX-AgentBeats](https://rdi.berkeley.edu/agentx-agentbeats.html) — Berkeley RDI, MLE-bench track | [mle-purple-agent](https://github.com/dmagog/mle-purple-agent) |
+| Result | Competition | Solution | Date |
+|---|---|---|---|
+| 🥇 Gold | [AgentX-AgentBeats](https://rdi.berkeley.edu/agentx-agentbeats.html) — Berkeley RDI, MLE-bench track | [mle-purple-agent](https://github.com/dmagog/mle-purple-agent) | Apr 2026 |
