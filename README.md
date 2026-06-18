@@ -17,35 +17,32 @@ ML engineer & researcher. LLM agents, ML security, NLP.
 
 ### Projects
 
-<table>
-<tr><td>
-<img src="assets/sirius-argus.png" width="36"/><br/>
-<a href="https://github.com/dmagog/Sirius-Argus"><b>Sirius-Argus</b></a><br/>
+<img src="assets/sirius-argus.png" width="40" align="left"/>
+
+**[Sirius-Argus](https://github.com/dmagog/Sirius-Argus)**<br/>
 <sub>MLSecOps platform — threat coverage map, RBAC, HITL gates</sub>
-</td><td>
-<img src="assets/atlas.png" width="36"/><br/>
-<a href="https://github.com/dmagog/ATLAS-phd"><b>ATLAS phd</b></a><br/>
+<br clear="left"/>
+
+<img src="assets/atlas.png" width="40" align="left"/>
+
+**[ATLAS phd](https://github.com/dmagog/ATLAS-phd)**<br/>
 <sub>LLM assistant for PhD qualifying exam preparation</sub>
-</td></tr>
-</table>
+<br clear="left"/>
 
 ---
 
 ### Research
 
-<table>
-<tr><td>
-<img src="assets/smiles.png" width="36"/><br/>
-<a href="https://github.com/dmagog/smiles-2026-hallu-probe"><b>hallu-probe</b></a><br/>
+<img src="assets/smiles.png" width="40" align="left"/>
+
+**[hallu-probe](https://github.com/dmagog/smiles-2026-hallu-probe)**<br/>
 <sub>LLM hallucination probing (SMILES 2026)</sub>
-</td><td>
-<img src="assets/airi.png" width="36"/><br/>
-<a href="https://github.com/dmagog/airi-agent-security-proposal"><b>agent-security</b></a><br/>
+<br clear="left"/>
+
+<img src="assets/airi.png" width="40" align="left"/>
+
+**[agent-security](https://github.com/dmagog/airi-agent-security-proposal)**<br/>
 <sub>LLM agent security (AIRI Summer School 2026)</sub>
-</td></tr>
-<tr><td>
-<a href="https://github.com/dmagog/persona-emotions"><b>persona-emotions</b></a><br/>
-<sub>Emotion steering vectors in LLMs</sub>
-</td><td>
-</td></tr>
-</table>
+<br clear="left"/>
+
+**[persona-emotions](https://github.com/dmagog/persona-emotions)** — Emotion steering vectors in LLMs
