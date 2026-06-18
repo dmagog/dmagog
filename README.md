@@ -6,7 +6,12 @@ ML engineer & researcher. LLM agents, ML security, NLP.
 
 ### Competitions
 
-🥇 **[AgentX-AgentBeats](https://github.com/dmagog/mle-purple-agent)** — Berkeley RDI, MLE-bench track, Apr 2026
+<img src="assets/gold-medal.png" width="40" align="left"/>
+
+**[AgentX-AgentBeats](https://github.com/dmagog/mle-purple-agent)** — Berkeley RDI, MLE-bench track<br/>
+<sub>Autonomous ML agent for Kaggle competitions via A2A protocol · Apr 2026</sub>
+
+<br clear="left"/>
 
 ---
 
@@ -16,14 +21,12 @@ ML engineer & researcher. LLM agents, ML security, NLP.
 
 **[Sirius-Argus](https://github.com/dmagog/Sirius-Argus)**<br/>
 <sub>MLSecOps platform — threat coverage map, RBAC, HITL gates</sub>
-
-<br clear="left"/><br/>
+<br clear="left"/>
 
 <img src="assets/atlas.png" width="40" align="left"/>
 
 **[ATLAS phd](https://github.com/dmagog/ATLAS-phd)**<br/>
 <sub>LLM assistant for PhD qualifying exam preparation</sub>
-
 <br clear="left"/>
 
 ---
@@ -34,9 +37,12 @@ ML engineer & researcher. LLM agents, ML security, NLP.
 
 **[hallu-probe](https://github.com/dmagog/smiles-2026-hallu-probe)**<br/>
 <sub>LLM hallucination probing (SMILES 2026)</sub>
+<br clear="left"/>
 
-<br clear="left"/><br/>
+<img src="assets/airi.png" width="40" align="left"/>
 
-**[agent-security](https://github.com/dmagog/airi-agent-security-proposal)** — LLM agent security (AIRI Summer School 2026)
+**[agent-security](https://github.com/dmagog/airi-agent-security-proposal)**<br/>
+<sub>LLM agent security (AIRI Summer School 2026)</sub>
+<br clear="left"/>
 
 **[persona-emotions](https://github.com/dmagog/persona-emotions)** — Emotion steering vectors in LLMs
