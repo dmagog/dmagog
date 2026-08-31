@@ -41,6 +41,12 @@ ML engineer & researcher. LLM agents, ML security, NLP.
 
 ### Research
 
+<img src="assets/persona-emotions.png" width="40" align="left"/>
+
+**[persona-emotions](https://github.com/dmagog/persona-emotions)**<br/>
+<sub>Emotion steering vectors in LLMs</sub>
+<br clear="left"/>
+
 <img src="assets/smiles.png" width="40" align="left"/>
 
 **[hallu-probe](https://github.com/dmagog/smiles-2026-hallu-probe)**<br/>
@@ -52,5 +58,3 @@ ML engineer & researcher. LLM agents, ML security, NLP.
 **[agent-security](https://github.com/dmagog/airi-agent-security-proposal)**<br/>
 <sub>LLM agent security (AIRI Summer School 2026)</sub>
 <br clear="left"/>
-
-**[persona-emotions](https://github.com/dmagog/persona-emotions)** — Emotion steering vectors in LLMs
