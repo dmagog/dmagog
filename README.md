@@ -15,6 +15,13 @@ ML engineer & researcher. LLM agents, ML security, NLP.
 
 <br clear="left"/>
 
+<img src="assets/sber.png" width="40" align="left"/>
+
+**[Digital Marathon 2026](https://it-marathon.21-school.ru/)** — Sber, Expert category<br/>
+<sub>4th place in the final out of 120 000 participants · May 2026</sub>
+
+<br clear="left"/>
+
 ---
 
 ### Projects
