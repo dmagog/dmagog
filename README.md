@@ -2,7 +2,7 @@
 
 ML engineer & researcher. LLM agents, ML security, NLP.
 
-<a href="https://www.kaggle.com/georgymamarin"><img src="assets/kaggle-master.png" width="20" align="top"/></a> [Kaggle Code Master](https://www.kaggle.com/georgymamarin) · <a href="https://www.kaggle.com/georgymamarin"><img src="assets/kaggle-expert.png" width="20" align="top"/></a> [Datasets Expert](https://www.kaggle.com/georgymamarin)
+<a href="https://www.kaggle.com/georgymamarin"><img src="assets/kaggle-master.png" width="22" align="top"/></a> [Kaggle Code Master](https://www.kaggle.com/georgymamarin) · <a href="https://www.kaggle.com/georgymamarin"><img src="assets/kaggle-expert.png" width="20" align="top"/></a> [Datasets Expert](https://www.kaggle.com/georgymamarin)
 
 ---
 
