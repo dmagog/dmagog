@@ -37,6 +37,12 @@ ML engineer & researcher. LLM agents, ML security, NLP.
 <sub>LLM assistant for PhD qualifying exam preparation</sub>
 <br clear="left"/>
 
+<img src="assets/kaggle-pulse.png" width="40" align="left"/>
+
+**[Kaggle Pulse](https://github.com/dmagog/kaggle-pulse)**<br/>
+<sub>Kaggle stats tracker — daily Meta snapshots, medal-eligible votes, named supporters</sub>
+<br clear="left"/>
+
 ---
 
 ### Research
