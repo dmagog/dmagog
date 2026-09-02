@@ -50,7 +50,7 @@ ML engineer & researcher. LLM agents, ML security, NLP.
 <img src="assets/eagle3.png" width="40" align="left"/>
 
 **[eagle3-qwen3](https://github.com/dmagog/eagle3-speculative-decoding)**<br/>
-<sub>Speculative decoding on Qwen3: anatomy of a speedup (YSDA × Sirius 2026)</sub>
+<sub>Speculative decoding on Qwen3: anatomy of a speedup (YSDA at Sirius 2026)</sub>
 <br clear="left"/>
 
 <img src="assets/smiles.png" width="40" align="left"/>
