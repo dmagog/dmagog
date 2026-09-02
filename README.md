@@ -14,7 +14,7 @@ ML engineer & researcher. LLM agents, ML security, NLP.
 <sub>Autonomous ML agent for Kaggle competitions via A2A protocol · Apr 2026</sub>
 <br clear="left"/>
 
-<img src="assets/sber.png" width="40" align="left"/>
+<img src="assets/place-4.png" width="40" align="left"/>
 
 **[Digital Marathon 2026](https://it-marathon.21-school.ru/)** — Sber, Expert category<br/>
 <sub>4th place in the final out of 120 000 participants · May 2026</sub>
