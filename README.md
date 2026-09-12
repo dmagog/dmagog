@@ -20,6 +20,12 @@ ML engineer & researcher. LLM agents, ML security, NLP.
 <sub>4th place in the final out of 120 000 participants · May 2026</sub>
 <br clear="left"/>
 
+<img src="assets/gold-medal.png" width="40" align="left"/>
+
+**[AI Talent Hack 2026](https://github.com/dmagog/mediaplan-optimizer)** — ITMO hackathon, 1st place<br/>
+<sub>Media plan optimizer — per-channel forecasts, hourly tracking, cross-channel budget reallocation · Sep 2026</sub>
+<br clear="left"/>
+
 ---
 
 ### Projects
