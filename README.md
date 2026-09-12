@@ -11,7 +11,7 @@ ML engineer & researcher. LLM agents, ML security, NLP.
 <img src="assets/gold-medal.png" width="40" align="left"/>
 
 **[AgentX-AgentBeats](https://github.com/dmagog/mle-purple-agent)** — Berkeley RDI, MLE-bench track<br/>
-<sub>Autonomous ML agent for Kaggle competitions via A2A protocol · Apr 2026</sub>
+<sub>Gold medal — autonomous ML agent for Kaggle competitions via A2A protocol · Apr 2026</sub>
 <br clear="left"/>
 
 <img src="assets/place-4.png" width="40" align="left"/>
@@ -22,8 +22,8 @@ ML engineer & researcher. LLM agents, ML security, NLP.
 
 <img src="assets/gold-medal.png" width="40" align="left"/>
 
-**[AI Talent Hack 2026](https://github.com/dmagog/mediaplan-optimizer)** — ITMO hackathon, 1st place<br/>
-<sub>Media plan optimizer — per-channel forecasts, hourly tracking, cross-channel budget reallocation · Sep 2026</sub>
+**[AI Talent Hack 2026](https://github.com/dmagog/mediaplan-optimizer)** — ITMO hackathon<br/>
+<sub>1st place — media plan optimizer: per-channel forecasts, hourly tracking, budget reallocation · Sep 2026</sub>
 <br clear="left"/>
 
 ---
